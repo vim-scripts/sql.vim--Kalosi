@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=905
+
+Update of the sql.vim syntax file. It supports all the Oracle 9i keywords and builtin functions.
+Future plans are to support the builtin packages
